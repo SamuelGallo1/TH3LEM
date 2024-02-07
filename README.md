@@ -14,7 +14,12 @@ As said in the **History** part Th3lem is based on a three-value-logic with the 
 # Instructions  
 Each instruction is 12 trits of lenght being the first 3 trits the Opcode (operation code) and the rest representing the address
 |TYPE|Instruction|Opcode|Explanation|
-|----|-----------|------|------------|
+|----|-----------|------|----------|
+| Arithmetic| ADD X| 100| .....|
+| | SUB X | 101 | ....|
+| | MUL X | 102 | ....|
+|Data Transfer| LD X| 120 |..... |
+| | STR X | 121 |....|
 
 
 
