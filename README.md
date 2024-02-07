@@ -20,7 +20,6 @@ Each instruction is 12 trits of lenght being the first 3 trits the Opcode (opera
 | | MUL X | 102 | ....|
 |Data Transfer| LD X| 120 |..... |
 | | STR X | 121 |....|
-
-
-
-
+|Jump instructions| JMS X| 001 |Store contents of the counter in X, then jump to the next address|
+| | JMP X| 002 |Jump to X uncondisionally|
+| | JMC C, X| | 010 | Jump to X intruction if C (condition) is equal:  * 0: AC = value; AC=0  * 1: AC > value; AC>0  * 2: AC < value; AC<0| 
