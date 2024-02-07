@@ -12,7 +12,7 @@ The name stands for **Theoretical 3-level machine** or **Theoretical 3-level mac
 # Introduction  
 As said in the **History** part Th3lem is based on a three-value-logic with the simplicity of MARIE...math...logic and more...to finish.
 # Instructions  
-Each instruction is 12 trits of lenght being the first 3 trits the Opcode (operation code) and the rest representing the address
+Each instruction is 9 trits of lenght being the first 3 trits the Opcode (operation code) and the rest representing the address
 |TYPE|Instruction|Opcode|Explanation|
 |----|-----------|------|------------|
 
