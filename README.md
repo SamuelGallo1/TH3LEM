@@ -16,11 +16,11 @@ Each instruction is 12 trits of lenght being the first 3 trits the Opcode (opera
 |OPCODE|INSTRUCTION|SUMMARY|OPCODE|INSTRUCTION|SUMMARY|OPCODE|INSTRUCTION|SUMMARY|
 |------|-----------|-------|------|-----------|-------|------|-----------|-------|
 |000   | NOP | No operation|100   |           |       |200   |           |       |  
-|001   |     |             |101   |           |       |201   |           |       |
-|002   |     |             |102   |           |       |202   |           |       |
-|010   |     |             |110   |           |       |210   |           |       |
-|011   |     |             |111   |           |       |211   |           |       |
-|012   |     |             |112   |           |       |212   |           |       |
-|020   |     |             |120   |           |       |220   |           |       |
-|021   |     |             |121   |           |       |221   |           |       |
-|022   |     |             |122   |           |       |222   |           |       |
+|001   | LD  | Load a value into the register|101   |           |       |201   |           |       |
+|002   | ST  | Store the value of certain register into the memory            |102   |           |       |202   |           |       |
+|010   | ADD | Addition operation            |110   |           |       |210   |           |       |
+|011   | SUB | Substraction operation           |111   |           |       |211   |           |       |
+|012   | MUL | Multiplication operation            |112   |           |       |212   |           |       |
+|020   | DIV | Divison operation            |120   |           |       |220   |           |       |
+|021   | MOD | Modulos operation            |121   |           |       |221   |           |       |
+|022   | MOV |              |122   |           |       |222   |           |       |
