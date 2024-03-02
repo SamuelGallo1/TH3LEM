@@ -9,7 +9,7 @@ TH3LEM (_IPA:θɹˈiːləm_) is a theoretical computer architecture based on 3-l
 The name stands for **Theoretical 3-level machine** or **Theoretical 3-level machine architeture** as Th3lema (a pun for the religion) 
 ...inspired by MARIE and Malbolge and more...to finish.
 
-# Introduction  to th3mel
+# Introduction  to th3mel arithmetic and 3 value logic
 
 Arithmetic
 ===============
@@ -35,7 +35,7 @@ sum of digits in a Three-value system, has similarity to binary where defined as
 |6/3	| 2   | 0 | 3|
 | 2/3	| 0   | 2 | 4|
  
-The result in trits of the number 60 is 2020.
+The result *in trits of the number 60 is 2020.*
 
 Although there are more ways to do convert both numbers, the ways above are easier to inplement into simplier algorithms
 
