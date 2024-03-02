@@ -27,7 +27,7 @@ sum of digits in a Three-value system, has similarity to binary where defined as
 
 1012 -> (1x3^3)+(0x3^2)+(1x3^1)+(2x3^0)= 27+0+3+2 =32
 
-60 -> (the trasnformation is given in table bellow)
+60 -> (the trasnformation is given in table bellow)  
 	|division by 3| quotient | remainder | trit|
 	|---------|----------|------------|------|
 	|60/3	| 20  | 0 | 0|
