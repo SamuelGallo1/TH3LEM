@@ -14,7 +14,7 @@ The name stands for **Theoretical 3-level machine** or **Theoretical 3-level mac
 Arithmetic
 ===============
 Every arithmetic operation could be defined as an abstraction of addition, for example a subtraction could be defined as a+b, where either a or b could be a negative number.
-The common algorthm for summation of decimal numbers works as well to ternary systems. Let's consider two numbers 54 and 26, then we have that 4+6=10, 10+50+20 = 80, the number 10 is represented commonly witha carry. 
+The common algorithm for summation of decimal numbers works as well to ternary systems. Let's consider two numbers 54 and 26, then we have that 4+6=10, 10+50+20 = 80, the number 10 is represented commonly with a carry. 
 In ternary we got that
 54 = 2000 and 26 = 222
 we have then that 
